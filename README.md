@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotadd&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kotadd&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kotadd&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotadd&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kotadd&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=kotadd&theme=gruvbox)
+
 <!--
 **kotadd/kotadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
