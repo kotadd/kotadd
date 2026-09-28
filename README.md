@@ -1,26 +1,9 @@
-### Hi there 👋
+## Kota Nishinaka
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotadd&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kotadd&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kotadd&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotadd&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kotadd&theme=gruvbox&utcOffset=9)
+Web frontend lead at a large C2C marketplace in Japan, and indie developer of **SleepTrip**, a sleep-story app for iOS / Android.
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kotadd&theme=gruvbox)
+- 🧭 Leading a 6–7 person web frontend team (Next.js / React / TypeScript)
+- 📱 Building SleepTrip with Expo / React Native, Next.js, Supabase, Cloudflare R2
+- 🔧 Contributed a fix to Expo: [expo/expo#44498](https://github.com/expo/expo/pull/44498) — iOS lock screen artwork race in expo-audio
 
-<!--
-**kotadd/kotadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work (company and SleepTrip) lives in private repositories.
