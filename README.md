@@ -5,6 +5,6 @@ Web frontend lead at a large C2C marketplace in Japan, and indie developer of **
 - 🧭 Leading a 6–7 person web frontend team (Next.js / React / TypeScript)
 - 📱 Building SleepTrip with Expo / React Native, Next.js, Supabase, Cloudflare R2
 - 🔧 Contributed a fix to Expo: [expo/expo#44498](https://github.com/expo/expo/pull/44498) — iOS lock screen artwork race in expo-audio
-- ✍️ Wrote about why I stay on Expo as a solo developer: Zenn (Japanese)
+- ✍️ Wrote about why I stay on Expo as a solo developer: [DEV Community](https://dev.to/kotadd/shopify-is-going-native-im-staying-on-expo-because-im-the-only-human-verifying-jc8) / [Zenn (Japanese)](https://zenn.dev/kotadd/articles/a88ff44c278af7)
 
 Most of my work (company and SleepTrip) lives in private repositories.
